@@ -1,2 +1,2 @@
 # FakeNewsBuster
-A tool that should hopefully help people to gain a better sense of whether news is trustworthy or not. Currently tackeling clickbait title detection.
+A tool that should hopefully help people to gain a better sense of whether news is trustworthy or not. Currently tackling clickbait title detection.
