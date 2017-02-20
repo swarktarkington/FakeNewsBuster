@@ -1,0 +1,24 @@
+{
+  "name": "fakenewsbuster",
+  "version": "1.0.0",
+  "description": "A tool to detect if news is likely to be fake based on it's title, content and author",
+  "main": "Buster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarktarkington/FakeNewsBuster.git"
+  },
+  "keywords": [
+    "fake",
+    "news",
+    "buster"
+  ],
+  "author": "Ava Butler",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/swarktarkington/FakeNewsBuster/issues"
+  },
+  "homepage": "https://github.com/swarktarkington/FakeNewsBuster#readme"
+}
